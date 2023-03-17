@@ -9,3 +9,15 @@ Editing: [Tamsin Walker](https://twitter.com/TamsinkateW), [Gianna-Carina Grün]
 You can read the story in [English](https://www.dw.com/en/european-green-deal-tracker/a-64985715) and [German](https://www.dw.com/de/eu-green-deal-tracker-faktencheck-klimaneutraler-umbau/a-64990834)
 
 DW is documenting the EU's progress towards its goal to become the first climate-neutral continent by 2050. The tracker focuses on five policy areas: reduction of overall emissions, transition to renewable energy, transforming the agricultural as well as the transportation sector and improving buildings.
+
+# Data
+
+| Metric   | Source |
+| ------------- | ------------- |
+| Overall emissions  | European Environment Agency  |
+| Renewable energy  | Eurostat  |
+| Solar and Wind | EMBER, SolarPowerEurope, WindEurope, International Energy Agency |
+| Heat pumps  | Regulatory Assistance Project, European Commission  |
+| Car emissions  | European Environment Agency |
+| Electric cars | European Environment Agency |
+| Agriculture emissions | European Environment Agency |
